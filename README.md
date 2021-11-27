@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋,
+
+Thanks for landing on my github profile.
+
+I'm thinking on adding some interesting stuff here while I'm out for a 🍺 with friends.
+Hopefully, inspiration will come 🤔.
+
+Cheers!
 
 <!--
 **armino-dev/armino-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
