@@ -2,9 +2,6 @@
 
 Thanks for landing on my github profile.
 
-I'm thinking on adding some interesting stuff here while I'm out for a 🍺 with friends.
-Hopefully, inspiration will come 🤔.
-
 Cheers!
 
 <!--
